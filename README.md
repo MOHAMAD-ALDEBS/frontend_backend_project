@@ -2,9 +2,7 @@
 
 Mouse ile etkileşimli, dinamik emoji efektleri oluşturan bir web projesi.
 
-**Videoyu izlemek için:** [scrshot.mp4'ü indir](https://github.com/MOHAMAD-ALDEBS/icon-trail-animation/raw/main/img/scrshot.mp4)
-
-https://github.com/MOHAMAD-ALDEBS/icon-trail-animation/raw/main/img/scrshot.mp4
+[📺 Demo Videosunu İzle](https://mohamad-aldebs.github.io/icon-trail-animation/img/scrshot.mp4)
 
 ## ✨ Özellikler
 
