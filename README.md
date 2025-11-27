@@ -2,6 +2,11 @@
 
 Mouse ile etkileşimli, dinamik emoji efektleri oluşturan bir web projesi.
 
+<video width="800" controls>
+  <source src="[img/scrshot.mp4](https://github.com/MOHAMAD-ALDEBS/icon-trail-animation/blob/901c376d5f8ac4bdefac0cf0e4acf4c928069545/img/scrshot.mp4)">
+  Tarayıcınız video etiketini desteklemiyor.
+</video>
+
 ## ✨ Özellikler
 
 - **Real-time Mouse Tracking**: Mouse hareketlerini gerçek zamanlı takip
