@@ -14,73 +14,21 @@ This repository is mainly for learning, experimenting, and building a portfolio 
 * Practice creating REST APIs and CRUD operations
 * Build small, complete full-stack applications
 
-## 🧱 Project Structure
-```
-frontend/
-  landing-page/
-  calculator/
-  todo-app/
-
-backend/
-  basic-express-server/
-  crud-api/
-  auth-app/
-
-fullstack/
-  login-system/
-  product-store/
-```
-
 I will update and reorganize these as I learn more.
 
 ## 🛠️ Technologies Used
 
 ### Frontend
 * HTML5
-* CSS3 (Flexbox, Grid, Animations)
-* JavaScript (DOM, Events, ES6+)
+* CSS3
+* JavaScript (DOM, Events, ...
 
 ### Backend
 * Node.js
-* Express
-* MongoDB
-* Mongoose
-* dotenv
 
-## 📦 Installation (Backend Projects)
-
-Install dependencies:
-```bash
-npm install
-```
-
-Start the server:
-```bash
-npm start
-```
-
-Using nodemon:
-```bash
-npm run dev
-```
-
-## ⚙️ Environment Variables
-
-Backend projects often require a `.env` file:
-```env
-PORT=3000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-```
 
 ## ✔️ What I Will Build in This Repo
 
-* Landing pages
-* UI components
-* Form validation
-* Simple REST APIs
-* CRUD systems
-* Login / register systems
 * Full-stack mini apps
 
 Each project helps me improve step by step.
